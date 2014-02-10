@@ -9,9 +9,29 @@ Copyright 2013, Josh Cope
 
 /*------------------------------------general styles-------------------------------*/
 
+html{
+	background-color: black;
+}
 
+header{
+	background-color: white;
+}
 
+header h1{
+	text-align: center;
+}
 
+/*------------------------------------nav elements-------------------------------*/
+
+nav ul{
+	list-style-type: none;
+	text-align: left;
+	font-variant: small-caps;
+}
+
+nav a{
+	text-decoration: none;
+}
 
 
 
